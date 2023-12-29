@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.45cb5c7c.css",
+    "main.js": "/WeatherApp/static/js/main.49aa9ae2.js",
+    "static/media/clouds-and-sun.png": "/WeatherApp/static/media/clouds-and-sun.3d43fccce98985fafd07.png",
+    "static/media/night.png": "/WeatherApp/static/media/night.9b098d440723535b6a6e.png",
+    "static/media/wind.png": "/WeatherApp/static/media/wind.2156fc95ad2dcfde3686.png",
+    "static/media/temp.svg": "/WeatherApp/static/media/temp.aa23671839421e76dfa90a9961fd9391.svg",
+    "static/media/storm.svg": "/WeatherApp/static/media/storm.7741b2c59e4d8a8455a8f361dd40f6b3.svg",
+    "static/media/cloudy.svg": "/WeatherApp/static/media/cloudy.755396fe9ea9bce47cc56db9cb62bcbf.svg",
+    "static/media/rain-night.svg": "/WeatherApp/static/media/rain-night.bcabe4fb05ffe1430abeb9e116c38be9.svg",
+    "static/media/perfect-day.svg": "/WeatherApp/static/media/perfect-day.5156c281246d81a762a8260c9c6580a9.svg",
+    "static/media/rain.svg": "/WeatherApp/static/media/rain.efd4d66c9f8c4fbd6cd155d32517027f.svg",
+    "static/media/cloudy-night.svg": "/WeatherApp/static/media/cloudy-night.bdd63c6af99e41b7f0c38dc5097cc6ce.svg",
+    "static/media/humidity.svg": "/WeatherApp/static/media/humidity.38d0c2ffd0864734b756d5a350e2c8b7.svg",
+    "static/media/pressure.svg": "/WeatherApp/static/media/pressure.37f0a961576085d4c48f4d3e8e6561dc.svg",
+    "static/media/day.svg": "/WeatherApp/static/media/day.c5cf49fb1a2d32044f621a5fcb077e1c.svg",
+    "index.html": "/WeatherApp/index.html",
+    "static/media/sunny.svg": "/WeatherApp/static/media/sunny.bbbee7775a4a1ff7a891a5428310b858.svg",
+    "main.45cb5c7c.css.map": "/WeatherApp/static/css/main.45cb5c7c.css.map",
+    "main.49aa9ae2.js.map": "/WeatherApp/static/js/main.49aa9ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45cb5c7c.css",
+    "static/js/main.49aa9ae2.js"
+  ]
+}
