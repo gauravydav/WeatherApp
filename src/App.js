@@ -12,7 +12,7 @@ import perfectDayIcon from "./icons/perfect-day.svg";
 import rainIcon from "./icons/rain.svg";
 import rainNightIcon from "./icons/rain-night.svg";
 import stormIcon from "./icons/storm.svg";
-import cloudAndSun from './icons/clouds-and-sun.png'
+import cloudAndSun from './icons/partly.png'
 
 import './App.css'
 
