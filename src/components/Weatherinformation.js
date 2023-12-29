@@ -100,6 +100,8 @@ const WeatherComponent = (props) => {
       timeStamp * 1000
     ).getMinutes()}`;
   };
+  console.log("Weather icon key:", weather?.weather[0].icon);
+
   return (
     <>
       <WeatherContainer>
@@ -109,6 +111,7 @@ const WeatherComponent = (props) => {
         </Condition>
         <WeatherIcon src={WeatherIcons[weather?.weather[0].icon]} />
       </WeatherContainer>
+
       <Location>{`${weather?.name}, ${weather?.sys?.country}`}</Location>
 
       <WeatherInfoLabel>Weather Info</WeatherInfoLabel>

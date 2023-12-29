@@ -12,6 +12,7 @@ import perfectDayIcon from "./icons/perfect-day.svg";
 import rainIcon from "./icons/rain.svg";
 import rainNightIcon from "./icons/rain-night.svg";
 import stormIcon from "./icons/storm.svg";
+import cloudAndSun from './icons/clouds-and-sun.png'
 
 import './App.css'
 
@@ -30,6 +31,7 @@ export const WeatherIcons = {
   "10n": rainNightIcon,
   "11d": stormIcon,
   "11n": stormIcon,
+  "50d":cloudAndSun,
 };
 const Container = styled.div`
   display: flex;
